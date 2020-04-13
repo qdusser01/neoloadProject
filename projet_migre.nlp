@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=projet_migre
+project.version=7.0
+project.original.version=6.6
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.3.0
+product.original.version=7.0.1
+project.id=4f5d91c6-9552-44d3-83e3-e72d079ce04c
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

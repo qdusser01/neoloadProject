@@ -1,0 +1,10 @@
+GET http://86.242.1.1/jpetstore/actions/Catalog.action HTTP/1.1
+Host: 86.242.1.1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://86.242.1.1/jpetstore/
+Accept-Encoding: gzip, deflate
+Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: JSESSIONID=300432EE855F30982ACB7455AC0D22B7; JSESSIONID.fc1a98e0=node0fczpzapdb46g1gisftt2ufd9o5.node0; screenResolution=1920x1080
+
